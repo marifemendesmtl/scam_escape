@@ -8,3 +8,7 @@ Digite os seguintes relatos:
 - Meu namorado não me deixa dirigir o carro que compramos juntos.
 - Estou num namorando há 3 meses com um homem que conheci num aplicativo de relacionamento. Ele parece estar muito interessado nessa relação e me liga o tempo todo perguntando aonde eu estou e com quem.
 - Estou numa relação homoafetiva com um boy que conheci no Grindr. Tivemos uma boa conexão tanto física como afetiva, mas ele está indo morar em outra cidade e me convidou para ir com ele. Estou indenciso.
+### Utilidade
+Os aplicativos de relacionamento tem moldado a forma como nos relacionamos com outras pessoas. Isso tem permitido ampliar nossa rede de conexões com pessoas que provavelmente não conheceríamos casualmente. Driblar o acaso e conectar pessoas com base em seus interesses e afinidades pode nos permitir viver diferentes experiências. Tornar esse ambiente mais seguro é essencial para promover relações saudáveis e garantir a integridade física e emocional de seus usuários. Essa ferramenta pode salvar vidas.
+### Ideias futuras
+Integração com os aplicativos de relacionamentos, tais como: Tinder, Bumble, Grindr, Happn, etc. 
