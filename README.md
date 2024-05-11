@@ -1,4 +1,5 @@
-# Scam Escape
+## Desafio Alura
+# Projeto: Scam Escape
 Chatbot LolE usando Gemini para ajudar usuários a identificar possíveis perfis falsos ou abusivos em aplicativos de relacionamento ou na vida real.
 ### LolE
 Oi, eu sou LolE! E fui treinadE a te ajudar a identificar se você está se correspondendo com perfis reais ou se você está numa relação tóxica ou não. Escreva a descrição dos perfis que você deu match, troca de mensagens, relatos de situações de encontros casuais ou relatos de situações cotidianas se você já está numa relação. E eu posso te dar dicas e conselhos.
